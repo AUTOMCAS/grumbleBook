@@ -63,10 +63,12 @@ I'd like to be able to comment on posts.
 
 ## Technologies:
 
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/) web framework for Node.js.
-- [Nodemon](https://nodemon.io/) to reload the server automatically.
 - [Handlebars](https://handlebarsjs.com/) to render view templates.
 - [Mongoose](https://mongoosejs.com) to model objects in MongoDB.
+- [Firebase](https://firebase.google.com/) for image storage
 - [ESLint](https://eslint.org) for linting.
 - [Jest](https://jestjs.io/) for testing.
 - [Cypress](https://www.cypress.io/) for end-to-end testing.
